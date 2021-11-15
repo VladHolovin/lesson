@@ -1,5 +1,25 @@
-h1{
-    color:red;
-    font-size: 60px
-
+*{
+    margin: 0px;
+    padding: 0;
+    
 }
+h1,h2{
+    text-align: center;
+}
+span{
+    color: red;
+}
+table{
+    padding: 10px;
+    margin:5px;
+    border-left: 3px solid rgb(31, 19, 197);
+    margin-left: 200px
+}
+ border-left:hover {
+    color: green;
+    transition: 1s;
+    transform: none;
+    width: 5px;
+}
+
+
