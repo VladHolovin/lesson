@@ -15,11 +15,11 @@ table{
     border-left: 3px solid rgb(31, 19, 197);
     margin-left: 200px
 }
- border-left:hover {
-    color: green;
+ table:hover {
+    border-color: green;
     transition: 1s;
-    transform: none;
-    width: 5px;
+  
+    
 }
 
 
